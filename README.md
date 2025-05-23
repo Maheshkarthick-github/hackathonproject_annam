@@ -1,5 +1,3 @@
-# hackathonproject_annam
-soil_classification
 # Hackathon Project: hackathonproject_annam
 
 ## Overview

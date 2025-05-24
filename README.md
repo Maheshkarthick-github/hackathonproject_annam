@@ -3,7 +3,7 @@
 ## project is a submission for the Hackathon Preliminary Round, designed to classify soil images using deep learning. The project contains two tasks:
 
 
-1. **Multi-class Classification**: Predict the correct **soil type** (e.g., Red, Black, Sandy, Loamy).
+1. **Multi-class Classification**: Predict the correct **soil type** 
 2. **Binary Classification**: Determine whether an image **contains soil or not**.
 
 Both tasks utilize **Convolutional Neural Networks (CNNs)** built using **TensorFlow/Keras**. The work was developed in **Google Colab**.
